@@ -1,6 +1,6 @@
-Flask
+﻿Flask
 gunicorn
-Jinja
+Jinja2
 Werkzeug
 numpy
 pandas
